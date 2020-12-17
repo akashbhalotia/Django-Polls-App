@@ -4,5 +4,9 @@ li a {
 }
 
 body {
-    background: lightgreen url("images/background.gif") no-repeat;
+    background: cadetblue url("images/background4.jpeg") no-repeat;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
